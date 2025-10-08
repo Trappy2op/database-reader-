@@ -1,0 +1,7 @@
+order_id,customer_id,customer_name,joined,product_id,product_name,category,price,order_total,order_date
+1001,C001,Mayank,2024-01-10,101,Wireless Mouse,Electronics,25.0,25.0,2025-01-05
+1002,C002,Punit,2024-02-05,102,Bluetooth Keyboard,Electronics,45.0,45.0,2025-01-07
+1003,C001,Mayank,2024-01-10,103,Gaming Headset,Electronics,60.0,60.0,2025-02-10
+1004,C003,Riya,2024-03-15,101,Wireless Mouse,Electronics,25.0,25.0,2025-02-15
+1005,C004,Ankit,2024-04-20,104,USB-C Hub,Accessories,35.0,35.0,2025-03-01
+1006,C002,Punit,2024-02-05,102,Bluetooth Keyboard,Electronics,45.0,90.0,2025-03-20
